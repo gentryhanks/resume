@@ -12,21 +12,21 @@ $if(applicant.address3)$ $applicant.address3$\\$endif$ }
 \begin{document} 
 \begin{letter}{$employer.name$ \\ $employer.address1$ \\ $employer.address2$ \\ $employer.address3$} 
 \opening{Dear Recruiting Team,} 
-With this letter I hereby wish to apply for the \textbf{$job.title$} position at $employer.name$ in $job.location$ Amsterdam.
+With this letter I hereby wish to apply for the \textbf{$job.title$} position at $employer.name$ in $job.location$.
 
 $abstract$
 
 
-Please find out more on my qualifications by reading enclosed Résumé. Thank you very much in advance for your consideration. If you have any further questions regarding my candidature, please contact me via telephone or e-mail.
+Please find out more on my qualifications by reading enclosed Curriculum Vitae. Thank you very much in advance for your consideration. If you have any further questions regarding my candidature, please contact me via telephone or e-mail.
 
 
 \closing{Sincerely yours,\\
-\fromsig{\includegraphics[scale=1]{signature.png}} \\
+\fromsig{\includegraphics[scale=1]{Hankssig.png}} \\
 \fromname{$for(applicant)$$applicant.name$$sep$, $endfor$}
 }
  
 %\cc{Cclist} 
 %\ps{adding a postscript} 
- \encl{Résumé} 
+ \encl{Curriculum Vitae} 
 \end{letter} 
 \end{document}

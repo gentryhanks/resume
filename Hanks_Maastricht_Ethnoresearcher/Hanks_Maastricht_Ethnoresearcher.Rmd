@@ -1,0 +1,40 @@
+---
+applicant:
+    address1: Gentry Hanks
+    address2: Queen's University, Department of Planning and Geography
+    address3: Kingston, ON Canada
+    name: Gentry Hanks
+
+employer:
+    name: Maastricht University
+    address1: Dr. Anna Harris, Technology & Society Studies
+    address2: P.O. Box 616
+    address3: 6200 MD Maastricht, The Netherlands
+
+job: "Postdoctoral Researcher in History of Medicine and Technology"
+title: "Postdoctoral Researcher"
+  # For running headers, if needed
+location: "University of Maastricht"
+  
+abstract: >
+
+  I am currently finishing my dissertation on the e-motional geographies of everyday life with diabetes. I expect to defend late August of 2017. I use archival methods as well as digital ethnography. I am analyzing archival correpsondence and reddit discourse about embodied experiences of diabetes related biomedical technologies. During my PhD, I collaborated with others on waste research in the genera research group. I conducted interviews with waste water treatment facility employees about needles in sewerage. I was also a research assistant and conducted ethnographic research in online communities about autism and sexuality. During my MA program, I worked for Dr. Helen Regis, an Anthropologist at Louisiana State University, on an ethnographic project in New Orleans, Louisiana. I identified and organized participants, I collected oral histories in Spanish and English from Latin American Cultural Activists in post-Katrina New Orleans. I also collected mental maps for the project, conducted archival research, and prepared a literature review. Examining the intersections of medical and technological histories with critical ethnography and critical pedagogies in medicine is an exciting prospect for me. 
+  
+  I have lived and worked abroad as a student, researcher, and teacher. I am quite keen on collaborating with graduate students and Dr. Anna Harris. Admittedly, I have not previously worked with translators, but find it an interesting opportunity and challenge.
+  I am interested in the tooling of collaboration, particularly in choosing technological tools to facilitate reproduction, analysis, communication, publication, and accessibility.
+   
+
+preamble: > 
+# add packages if needed
+output: resume::cover_letter
+---
+
+# Introduction
+
+This template demonstrates some of the basic latex you'll need to know to create a JSS article.
+
+# R code
+
+Can be inserted in regular R markdown blocks.
+
+
